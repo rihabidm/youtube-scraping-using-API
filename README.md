@@ -1,4 +1,4 @@
-#YouTube Data Collection and Exploration Notebook
+# YouTube Data Collection and Exploration Notebook
 
 Description:
 Embark on a deep dive into the vast ocean of YouTube content with this comprehensive notebook utilizing the YouTube API. Unleashing the power of data extraction, this project gathers rich information from channels, playlists, comments, and videos, offering a holistic view of the YouTube ecosystem.
